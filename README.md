@@ -1,4 +1,4 @@
-# 👨‍💻 Jackson Paredes Ferranti
+# 👨🏻‍💻 Jackson Paredes Ferranti
 ## Software Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jacksonpf1/)
