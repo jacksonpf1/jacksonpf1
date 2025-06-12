@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-Software developer with experience in fullstack web application development. Passionate about creating efficient and scalable solutions using modern technologies. Always looking for new challenges and opportunities to learn and grow professionally.
+Software developer with experience in fullstack web development. Passionate about creating efficient and scalable solutions. Always looking for new challenges and opportunities to learn and grow professionally.
 
 ---
 
